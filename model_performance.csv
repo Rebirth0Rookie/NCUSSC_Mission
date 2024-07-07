@@ -1,0 +1,4 @@
+Dataset,Task,Inference Time (seconds),Memory Usage (MB),Accuracy (%)
+SST-2_val,Sentiment Analysis,1.2442,2795.6133,91.0550
+SST-2-train,Sentiment Analysis,58.0492,2798.1016,98.8552
+CoLA,Linguistic classification,0.7656,2809.5703,45.8293
